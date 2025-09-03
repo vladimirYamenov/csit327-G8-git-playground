@@ -153,8 +153,8 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
-
-- Sala, kirby klent G. (**@vladimirYamenov**)
 - @blissfuljuan
 - Revilleza, Frederick (**@blissfuljuan**)
-
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Sala, kirby klent G. (**@vladimirYamenov**)
