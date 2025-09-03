@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G8
+- Favorite Language: Java and Python
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @vladimirYamenov
